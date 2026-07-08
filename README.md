@@ -1,21 +1,217 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-imran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasirimrandev@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Yasir+Imran;Software+Engineering+Student+@+PUCIT;Backend+Developer+%7C+AI+Engineer+in+Progress;Python+%7C+FastAPI+%7C+Machine+Learning;Building+Scalable+Backend+Systems;Always+Learning,+Always+Building." />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yasirimran4&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yasirimran4&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yasirimran4&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yasirimran4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yasirimran4&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yasirimran4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<a href="https://linkedin.com/in/yasir-imran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:yasirimrandev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=yasirimran4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+Hi, I'm **Yasir Imran**, a Software Engineering student at **Punjab University College of Information Technology (PUCIT)**.
+
+I am passionate about **Backend Engineering**, **Artificial Intelligence**, and building software that solves real-world problems.
+
+Rather than simply using AI APIs, I enjoy understanding how intelligent systems work, training machine learning models, designing scalable backend architectures, and turning ideas into production-ready applications.
+
+I believe the best way to learn is by **building**, **sharing**, and **continuously improving**.
+
+---
+
+## 🚀 Currently Working On
+
+- Backend Development with Python & FastAPI
+- Full Stack Web Applications
+- Machine Learning Projects
+- AI-powered Applications
+- REST APIs & Clean Architecture
+- Developer Tools
+- Open Source Contributions
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced FastAPI
+- Django
+- Machine Learning
+- Deep Learning
+- Agentic AI
+- System Design
+- Data Structures & Algorithms
+- Distributed Systems
+
+---
+
+# 🛠️ Tech Stack
+
+## Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
+</p>
+
+---
+
+## Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" />
+</p>
+
+---
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+---
+
+## Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,supabase" />
+</p>
+
+---
+
+## AI & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
+
+---
+
+## Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## Meetlify
+
+An AI-powered Event Management Platform built with FastAPI.
+
+### Features
+
+- JWT Authentication
+- Event Management
+- Email Automation
+- Background Tasks
+- Redis + Celery
+- PostgreSQL
+- Docker Deployment
+- Clean Architecture
+- RESTful APIs
+
+---
+
+# 🌱 Open to Collaborate On
+
+- Python Projects
+- FastAPI Projects
+- Backend Systems
+- AI & Machine Learning Projects
+- Open Source
+- Research Projects
+- Hackathons
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yasirimran4&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirimran4&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirimran4&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Yasir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yasirimran4&theme=tokyo-night)](https://github.com/yasirimran4)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yasirimran4&theme=tokyonight&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+- Master Backend Engineering
+- Build Production-Ready SaaS Products
+- Strengthen Machine Learning Skills
+- Contribute to Open Source
+- Publish AI Projects
+- Improve Problem Solving & DSA
+- Secure a Remote Backend / AI Engineering Role
+- Begin AI Research Journey
+
+---
+
+# 💡 Fun Facts
+
+- 💻 Backend development is my favorite part of software engineering.
+- 🐧 Linux is my daily development environment.
+- 🤖 I enjoy building AI-powered applications.
+- 📚 I believe real learning comes from building real projects.
+- 🚀 Always exploring new technologies and improving my skills.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/yasir-imran">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:yasirimrandev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/yasirimran4">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+Thanks for visiting my profile!
+
+</div>
