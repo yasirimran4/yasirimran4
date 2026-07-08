@@ -204,31 +204,6 @@ A complete backend system designed for managing university events, registrations
 </p>
 
 
----
-
-# 🏆 GitHub Trophies
-
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yasirimran4&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
-
----
-
-# 🎯 Goals For 2026
-
-- Become a strong Backend Engineer
-- Build production-ready SaaS applications
-- Improve Machine Learning expertise
-- Contribute to Open Source
-- Publish AI projects
-- Strengthen DSA and problem-solving skills
-- Secure a Remote Backend / AI Engineering role
-- Start AI research journey
-
 
 ---
 
